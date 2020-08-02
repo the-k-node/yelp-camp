@@ -5,6 +5,6 @@ Check those comments for each campground before you go there to make sure it sui
 
 
 So what are you waiting for? 
-Check it out here and let me know how it looks in action (ignore any little bugs, because I will be fixing them whenever I find time).
+Check it out here and let me know how it looks in action (ignore any styling issues, because I will be fixing them whenever I find time).
 
 Go to your browser and type this to take a loot at my work: URL -https://kiran-kumar-apps.herokuapp.com/ (yeah also works if you just click the url).
