@@ -9,4 +9,4 @@ Check it out here and let me know how it looks in action (ignore any styling iss
 
 Unbox my 'Project' folder to expand all the files, I used (committed a complete Project folder than individual files to make them look isolated from readme and license files)
 
-Go to your browser and type this to take a loot at my work: URL -https://kkapps-yelp-camp.herokuapp.com (yeah also works if you just click the url).
+Go to your browser and type this to take a look at my work: URL -https://kkapps-yelp-camp.herokuapp.com (yeah also works if you just click the url).
